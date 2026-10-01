@@ -1,0 +1,9 @@
+{
+    "admin_email": "arhumsajid566@gmail.com",
+    "sender_email": "arhumsajid089@gmail.com",
+    "sender_password": "sajid pervaiz 444",
+    "idle_time_warning": 10,
+    "idle_time_capture": 15,
+    "photo_save_path": "captured_photos/",
+    "log_db": "employee_logs.db"
+}
